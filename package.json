@@ -1,6 +1,9 @@
 {
   "name": "face-recognize-app",
   "version": "0.1.0",
+  "engines": {
+    "node": "13.5.0"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
