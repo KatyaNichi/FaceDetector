@@ -2,7 +2,7 @@
   "name": "face-recognize-app",
   "version": "0.1.0",
   "engines": {
-    "node": "18.4.0"
+    "node": "16.15.1"
   },
   "private": true,
   "dependencies": {
